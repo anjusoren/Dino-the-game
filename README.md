@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [base-apparel-coming-soon-page](https://base-apparel-coming-soon-five-xi.vercel.app/)
+- Live Site URL: [Dino-the-game](https://anjusoren.github.io/Dino-the-game/)
 
 ## My process
 
