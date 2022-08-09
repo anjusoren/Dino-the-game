@@ -49,8 +49,7 @@ Users should be able to:
 
 1. Use of Flexbox and Grid
 2. responsive design using Tailwind css
-3. Use of React Hook Form
-4. how to use useRouter
+
 
 
 ### Continued development
